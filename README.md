@@ -1,4 +1,4 @@
-# CS-Notes
+# swe notes
 
 ## Algorithms
 
