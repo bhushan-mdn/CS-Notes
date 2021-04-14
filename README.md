@@ -1,4 +1,4 @@
-# swe notes
+# Software Engineering Notes
 
 ## Algorithms
 
@@ -8,7 +8,12 @@
 
 ## Database
 
-## Java
+## Languages
+- Java
+- Python
+- C/C++
+- Go
+- Rust
 
 ## System Design
 
